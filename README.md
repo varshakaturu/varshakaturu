@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Varsha Katuru.</h1>
-<h3 align="center">A coding and data enthusiast with a passion for diving deep into my skills and creating great tech solutions.</h3>
+<h3 align="center">A coding & data enthusiast with a passion for diving deep into my skills and creating great tech solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshakaturu&label=Profile%20views&color=0e75b6&style=flat" alt="varshakaturu" /> </p>
 
