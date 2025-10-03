@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **a little of everything, basically a jack of all trades!**
 
-- 👨‍💻 My corner of internet - [https://varshakaturuprofile.netlify.app/](https://varshakaturuprofile.netlify.app/)
+- 👨‍💻 My corner of internet - [https://varshakaturuprofile.netlify.app/](https://varshakaturu.netlify.app/)
 
 - 📫 Drop me a line - **varshakaturu@gmail.com**
 
