@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshakaturu&show_icons=true&locale=en&layout=compact" alt="varshakaturu" /></p><br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=varshakaturu&theme=light&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=varshakaturu&theme=dark&hide_border=false)<br/>
